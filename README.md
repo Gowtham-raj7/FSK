@@ -89,6 +89,6 @@ image
 # Results
 FSK modulation and demodulation were successfully demonstrated.
 
-Output Waveform - Hardware Experiment
+# Output Waveform - Hardware Experiment
 ![DC-IMG](https://github.com/user-attachments/assets/3d247b64-ac59-4dbe-a5bd-0e68b3cb8fec)
 
