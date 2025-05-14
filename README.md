@@ -83,12 +83,13 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
-Output Waveform
-image
+# Output Waveform
+![fsk-7 img](https://github.com/user-attachments/assets/7cef84bf-2744-4750-a39f-ecaf58cbe7c8)
 
-# Results
-FSK modulation and demodulation were successfully demonstrated.
 
 # Output Waveform - Hardware Experiment
 ![DC-IMG](https://github.com/user-attachments/assets/3d247b64-ac59-4dbe-a5bd-0e68b3cb8fec)
+
+# Results
+FSK modulation and demodulation were successfully demonstrated.
 
